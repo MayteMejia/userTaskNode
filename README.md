@@ -2,7 +2,7 @@
 
 ### 1. Clonar el proyecto
 ```bash
-git clone 
+git clone https://github.com/MayteMejia/userTaskNode.git
 ```
 
 ### 2. Instalar dependencias
